@@ -1,0 +1,9 @@
+{
+	"name": "narasiadf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "638ea077-975e-4c22-9154-bf9c86e4d9cc",
+		"tenantId": "1c5c42f6-500b-40cf-b685-7496985b77cb"
+	}
+}
