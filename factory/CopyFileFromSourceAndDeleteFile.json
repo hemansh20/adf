@@ -1,0 +1,9 @@
+{
+	"name": "CopyFileFromSourceAndDeleteFile",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b671f95e-9886-4ef8-b237-f582eaee46c0",
+		"tenantId": "1c5c42f6-500b-40cf-b685-7496985b77cb"
+	}
+}
